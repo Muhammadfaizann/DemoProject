@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "MLL4TWzIozGtJJtS9pBkMm+wBEiy1E/LsYuc8fMldwXHm3y4lIkMyjo1gsAap9YnHSWYM5QHhKktyvURnYMzOg==",
+  "success": false,
+  "projectFilePath": "/Users/faizan/RiderProjects/DemoProject/DemoProject/DemoProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/faizan/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/faizan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/faizan/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/faizan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/faizan/.nuget/packages/microsoft.netcore.app.ref/7.0.16/microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "/Users/faizan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.16/microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
